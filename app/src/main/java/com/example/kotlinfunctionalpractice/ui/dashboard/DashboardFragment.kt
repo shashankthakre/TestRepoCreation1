@@ -27,5 +27,6 @@ class DashboardFragment : Fragment() {
             textView.text = it
         })
         return root
+        ///
     }
 }
